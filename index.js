@@ -1,4 +1,4 @@
-var compare = require('spdx-compare')
+var compare = require('@metamask/spdx-compare')
 var parse = require('spdx-expression-parse')
 var ranges = require('spdx-ranges')
 
